@@ -27,7 +27,6 @@ function Cricket() {
       <button id="btn6" value={5} onClick={handleScore}> Wd+4 Run</button>
       <button id="btn7" value={6} onClick={handleScore}> 6 Run</button>
       <button id="btn8"  onClick={handlewickets}> Wickets</button>
-
     </div>
   )
 }
