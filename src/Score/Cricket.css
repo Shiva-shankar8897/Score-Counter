@@ -1,0 +1,26 @@
+#h1,h2{color:blue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#btn1{background-color:black;
+      color: aqua;
+    border-top-left-radius: 10px;}
+#btn2{background-color: black;
+        color:aqua;
+      border-bottom-right-radius: 10px;}
+#btn3{background-color: black;
+    color:aqua;
+    border-top-left-radius: 10px;}
+#btn4{background-color: black;
+        color: aqua;
+      border-bottom-right-radius: 10px;}
+#btn5{background-color: black;
+        color: aqua;
+      border-top-left-radius: 10px;}
+#btn6{background-color: black;
+        color: aqua;
+      border-bottom-left-radius: 10px;}
+#btn7{background-color: black;
+        color: aqua;
+      border-top-left-radius: 10px;}
+#btn8{background-color:red;
+        color:white;
+      border-radius: 10px;}
